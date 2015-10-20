@@ -1,0 +1,31 @@
+html{
+	font-size:16px;
+}
+
+.content__nav{
+	display:flex;
+	justify-content:space-between;
+}
+
+   .figure__content img{
+   	 width:3em;
+   	 border-radius:50%;
+   }
+
+   .nav{
+   	border:1px solid red;
+   	margin:1em 1.5em 0 0;
+   }
+
+        .nav__list{
+   	      list-style:none;
+        }
+    
+        .nav__item{
+          display:inline-block;
+          margin-left:.7em;   
+        }
+
+        .nav__item a{
+          text-decoration:none;
+        }  
